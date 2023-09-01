@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684738908090",
+    "project_id": "interviewtask-44dc1",
+    "storage_bucket": "interviewtask-44dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684738908090:android:1a85e762cba4dd6576d783",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684738908090-tprg659h1tvs39pqf843aigaav7eu5jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVuQVwcgBzc9B8jg22fn4W8enL9KNCcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684738908090-tprg659h1tvs39pqf843aigaav7eu5jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="text_add_notes">Add Notes</string>
+    <string name="text_title">Title</string>
+  <string name="text_submit">Submit</string>
+  <string name="text_cancel">Cancel</string>
+  <string name="text_task">Task</string>
+    <string name="text_no_device_found">No device found</string>
+  <string name="text_notes">Notes</string>
+  <string name="text_no_notes_available">No Notes Available</string>
+</resources>
